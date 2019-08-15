@@ -6,7 +6,7 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">
-                        Hellow World!! Vue.js
+                        Hellow World!! Vue.js test
                     </div>
                 </div>
             </div>
